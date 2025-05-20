@@ -1,0 +1,4 @@
+remote_auto_dock_server_node:
+  ros__parameters:
+    dock_battery_level_th: 0.1
+    dock_pose: [0.1, 0.3, 1.57]
